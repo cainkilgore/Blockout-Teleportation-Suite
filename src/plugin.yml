@@ -1,0 +1,14 @@
+name: Blockout Teleportation Suite
+author: BlockoutDev
+version: 1.00
+main: org.blockout.tpsuite.BlockoutTeleportationSuite
+commands:
+   tp:
+       description: 'Teleport to a player'
+       usage: /tp <player>
+   tphere:
+       description: 'Teleport a player to you'
+       usage: /tphere <player>
+   tpall:
+       description: 'Teleport all online players to you'
+       usage: /tpall
